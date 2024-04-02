@@ -1,4 +1,4 @@
-![welcome to coding camp](http://url/to/420201863_3541839306066874_6605173632710585058_n.jpg.png)
+![welcome to coding camp]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
