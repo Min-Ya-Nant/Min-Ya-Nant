@@ -1,4 +1,4 @@
-### Hi there 👋
+![alt text](http://url/to/img.png)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
